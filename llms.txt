@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/boadak-khalany-aqwa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Boadak Khalany Aqwa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Boadak Khalany Aqwa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
