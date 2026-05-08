@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Boadak Khalany Aqwa
+
+This log tracks the cryptographic history and versioning for the song **Boadak Khalany Aqwa** (boadak-khalany-aqwa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:12:57.011978 | `v1` | `5a2052fb46e25dfd5a442dfc58d59700e965eb9dbdd8e1f5ead20a538b22a2e6` | `cfc359216c25074b90ce5453895631ae94b9e50347e333aa20d353cb97ff896e` | `2026-05-08_boadak-khalany-aqwa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
